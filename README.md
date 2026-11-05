@@ -1,2 +1,5 @@
-# Your_Name
-This is a tiny project from Teach Your Kids to Code, asking the user their name which is my very first project in Python.
+# YourName.py
+
+My first Python program! It asks the user for their name and greets them.
+
+Concepts learned: input(), variables and print().
